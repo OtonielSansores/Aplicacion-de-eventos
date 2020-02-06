@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalcularFecha.cs" />
+    <Compile Include="Interfaces\ILeerArchivo.cs" />
+    <Compile Include="Interfaces\IMensaje.cs" />
+    <Compile Include="Interfaces\IVerificarEvento.cs" />
+    <Compile Include="LeerArchivo.cs" />
+    <Compile Include="Mensaje.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VerificarEvento.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
