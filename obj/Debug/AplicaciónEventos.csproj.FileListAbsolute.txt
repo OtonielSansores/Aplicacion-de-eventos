@@ -1,0 +1,7 @@
+C:\Users\otoniel.sansores\source\repos\AplicaciónEventos\AplicaciónEventos\bin\Debug\AplicaciónEventos.exe.config
+C:\Users\otoniel.sansores\source\repos\AplicaciónEventos\AplicaciónEventos\bin\Debug\AplicaciónEventos.exe
+C:\Users\otoniel.sansores\source\repos\AplicaciónEventos\AplicaciónEventos\bin\Debug\AplicaciónEventos.pdb
+C:\Users\otoniel.sansores\source\repos\AplicaciónEventos\AplicaciónEventos\obj\Debug\AplicaciónEventos.csprojAssemblyReference.cache
+C:\Users\otoniel.sansores\source\repos\AplicaciónEventos\AplicaciónEventos\obj\Debug\AplicaciónEventos.csproj.CoreCompileInputs.cache
+C:\Users\otoniel.sansores\source\repos\AplicaciónEventos\AplicaciónEventos\obj\Debug\AplicaciónEventos.exe
+C:\Users\otoniel.sansores\source\repos\AplicaciónEventos\AplicaciónEventos\obj\Debug\AplicaciónEventos.pdb
