@@ -7,7 +7,7 @@ namespace AplicaciónEventos
     {
         static void Main(string[] args)
         {
-            string[] archivoTexto = File.ReadAllLines(@"C:\texto.txt");
+            string[] archivoTexto = File.ReadAllLines(@"C:\Users\otoniel.sansores\source\repos\AplicaciónEventos\AplicaciónEventos\texto.txt");
             
             string[] evento;
 
